@@ -30,24 +30,51 @@ We've delivered **12+ projects** across web, mobile, data, and automation for **
 | Domain | Technologies |
 |---|---|
 | **Web Applications** | React, Next.js, Node.js, REST APIs |
-| **Mobile Applications** | Flutter, React Native, Firebase |
-| **Data & Analytics** | Python, PostgreSQL, Streamlit, Web Scraping |
-| **Automation & AI** | Python, SMTP Automation, AI Integration |
-| **Business Systems** | PHP, MySQL, Admin Dashboards |
+| **Mobile Applications** | Flutter, React Native, Firebase, Riverpod |
+| **Data & Analytics** | Python, PostgreSQL, Streamlit, Plotly, BeautifulSoup |
+| **Automation & AI** | Python, OpenAI, Hugging Face, SMTP Automation |
+| **Business Systems** | Python, SQLite, Tkinter, Flask, pandas |
 | **CMS & Marketing Sites** | WordPress, SEO-Optimized Web |
 
 ---
 
 ## 🚀 Featured Work
 
-| Project | Type | Stack | Link |
+### 📱 Mobile Applications
+
+| Project | Description | Stack | Link |
 |---|---|---|---|
-| **Nexus Rides** | Ride-sharing platform + mobile app | Flutter, Firebase, Node.js, React | [nexus-rides.com](https://nexus-rides.com) |
-| **FemDrive** | Women-focused ride-sharing app | Flutter, Firebase | [Case Study](https://www.akatechsolution.com/projects/femdrive) |
-| **SaveNest** | AI grocery price comparison app | Flutter, Firebase, Web Scraping | [Case Study](https://www.akatechsolution.com/projects/savenest) |
-| **Real Estate Analytics** | Property market scraper & dashboard | Python, PostgreSQL, Streamlit | Internal |
-| **Nexus Dispatch** | Logistics dispatch management system | React, Node.js | Internal |
-| **Lead Harvester** | Automated lead generation tool | Python, Web Scraping | Internal |
+| **Nexus Rides** | Ride-sharing app with fare negotiation, driver matching & real-time updates | Flutter, Firebase, Node.js | [Case Study](https://www.akatechsolution.com/projects/nexus-rides) |
+| **FemDrive** | Women-only ride-sharing app with SOS, real-time tracking & safety features | Flutter, Firebase | [Case Study](https://www.akatechsolution.com/projects/femdrive) |
+| **SaveNest** | AI-powered grocery price comparison & recipe assistant | Flutter, Firebase, Web Scraping | [Case Study](https://www.akatechsolution.com/projects/savenest) |
+| **Self Evaluator** | Anonymous mental wellbeing app with mood tracking & AI life advice | Flutter, Riverpod, Firebase, OpenAI | [Case Study](https://www.akatechsolution.com/projects/self-evaluator) |
+| **Goldsmith** | Gold rate calculator & professional receipt generator for jewelers | Flutter, Riverpod, PDF Generation | [Case Study](https://www.akatechsolution.com/projects/goldsmith) |
+
+### 🌐 Web Platforms & Dashboards
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Nexus Rides Website** | Portfolio & marketing site for the Nexus Rides platform | React, Modern Frontend | [nexus-rides.com](https://nexus-rides.com) |
+| **Nexus Dispatch** | Logistics & ride dispatch management system with admin dashboard | React, Node.js | Internal |
+
+### 📊 Data & Analytics
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Real Estate Analytics** | Automated property market scraper & interactive analytics dashboard for Pakistan | Python, PostgreSQL, Streamlit, Plotly | [Case Study](https://www.akatechsolution.com/projects/real-estate-analytics) |
+
+### ⚙️ Business Management Systems
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Gym Fees Management** | Membership tracking, fee collection & payment monitoring with Excel/PDF export | Python, SQLite, pandas | [Case Study](https://www.akatechsolution.com/projects/gym-fees) |
+
+### 🤖 Automation & Lead Generation
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Lead Harvester** | Scrapes emails, phone numbers & social profiles from multiple sources for outreach | Python, Web Scraping | Internal |
+| **Smart Mailer** | Bulk email automation with configurable delays, batch sending & signature insertion | Python, SMTP Automation | Internal |
 
 ---
 
